@@ -1,0 +1,6 @@
+1. git clone https://github.com/Linusriksson/project_name.git.
+2. git add fil1.txt # Så man får git att fatta att något nytt har skapats eller tagits bort mm.
+3. git status # Kollar status på om du har någon fil som behöver eller inte behöver commitas.
+4. commit #En commit betyder att nuvarande version av filen är lagrad till git.
+5. commit -m "Skapade dokumentet" # en commit med kommentar (-m).
+6. git push #Ladda upp dina ändringar till Github. 
